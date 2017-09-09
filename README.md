@@ -2,6 +2,7 @@ GRNsight
 ========
 
 [![Build Status](https://travis-ci.org/eileenchoe/GRNsight.svg?branch=beta)](https://travis-ci.org/eileenchoe/GRNsight)
+[![Coverage Status](https://coveralls.io/repos/github/eileenchoe/GRNsight/badge.svg?branch=beta)](https://coveralls.io/github/eileenchoe/GRNsight?branch=beta)
 
 http://dondi.github.io/GRNsight/
 
